@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.484444,
+          34.385278
+        ]
+      },
+      "properties": {
+        "name": "Mazda Zoom-Zoom スタジアム",
+        "description": "広島東洋カープの本拠地"
+      }
+    }
+  ]
+}
